@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.0.0-rc1/src/parser/StudyConfigSchema.json",
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.1.0/src/parser/StudyConfigSchema.json",
   "components": {
     "introduction": {
       "path": "./assets/introduction.md",
@@ -3901,7 +3901,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -7801,7 +7801,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -11701,7 +11701,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -15601,7 +15601,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -19501,7 +19501,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -23401,7 +23401,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -27301,7 +27301,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -31201,7 +31201,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -35101,7 +35101,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -39001,7 +39001,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -42901,7 +42901,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -46801,7 +46801,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -50701,7 +50701,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -54601,7 +54601,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -58501,7 +58501,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -62401,7 +62401,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -66301,7 +66301,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -70201,7 +70201,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -74101,7 +74101,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -78001,7 +78001,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -81901,7 +81901,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -85801,7 +85801,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -89701,7 +89701,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -93601,7 +93601,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -97501,7 +97501,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -101401,7 +101401,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -105301,7 +105301,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -109201,7 +109201,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -113101,7 +113101,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -117001,7 +117001,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -120901,7 +120901,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -124801,7 +124801,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -128701,7 +128701,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -132601,7 +132601,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -136501,7 +136501,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -140401,7 +140401,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -144301,7 +144301,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -148201,7 +148201,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -152101,7 +152101,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -156001,7 +156001,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -159901,7 +159901,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -163801,7 +163801,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -167701,7 +167701,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
@@ -171601,7 +171601,7 @@
             "Right Image"
           ],
           "prompt": "Select the figure with higher opacity level",
-          "type": "dropdown"
+          "type": "buttons"
         }
       ],
       "type": "vega"
