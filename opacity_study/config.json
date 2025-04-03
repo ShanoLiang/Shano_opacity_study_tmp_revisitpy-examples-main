@@ -10,7 +10,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -3897,6 +3902,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -3916,7 +3926,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -7803,6 +7818,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -7822,7 +7842,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -11709,6 +11734,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -11728,7 +11758,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -15615,6 +15650,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -15634,7 +15674,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -19521,6 +19566,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -19540,7 +19590,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -23427,6 +23482,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -23446,7 +23506,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -27333,6 +27398,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -27352,7 +27422,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -31239,6 +31314,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -31258,7 +31338,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -35145,6 +35230,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -35164,7 +35254,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -39051,6 +39146,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -39070,7 +39170,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -42957,6 +43062,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -42976,7 +43086,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -46863,6 +46978,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -46882,7 +47002,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -50769,6 +50894,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -50788,7 +50918,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -54675,6 +54810,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -54694,7 +54834,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -58581,6 +58726,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -58600,7 +58750,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -62487,6 +62642,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -62506,7 +62666,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -66393,6 +66558,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -66412,7 +66582,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -70299,6 +70474,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -70318,7 +70498,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -74205,6 +74390,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -74224,7 +74414,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -78111,6 +78306,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -78130,7 +78330,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -82017,6 +82222,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -82036,7 +82246,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -85923,6 +86138,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -85942,7 +86162,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -89829,6 +90054,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -89848,7 +90078,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -93735,6 +93970,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -93754,7 +93994,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -97641,6 +97886,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -97660,7 +97910,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -101547,6 +101802,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -101566,7 +101826,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -105453,6 +105718,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -105472,7 +105742,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -109359,6 +109634,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -109378,7 +109658,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -113265,6 +113550,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -113284,7 +113574,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -117171,6 +117466,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -117190,7 +117490,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -121077,6 +121382,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -121096,7 +121406,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -124983,6 +125298,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -125002,7 +125322,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -128889,6 +129214,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -128908,7 +129238,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -132795,6 +133130,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -132814,7 +133154,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -136701,6 +137046,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -136720,7 +137070,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -140607,6 +140962,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -140626,7 +140986,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -144513,6 +144878,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -144532,7 +144902,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -148419,6 +148794,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -148438,7 +148818,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -152325,6 +152710,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -152344,7 +152734,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -156231,6 +156626,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -156250,7 +156650,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -160137,6 +160542,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -160156,7 +160566,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -164043,6 +164458,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -164062,7 +164482,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -167949,6 +168374,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -167968,7 +168398,12 @@
       "config": {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "background": "white",
-        "padding": 5,
+        "padding": {
+          "left": 350,
+          "right": 1000,
+          "top": 20,
+          "bottom": 20
+        },
         "height": 300,
         "data": [
           {
@@ -171855,6 +172290,11 @@
             "zero": true
           }
         ],
+        "autosize": {
+          "type": "pad",
+          "resize": "true",
+          "contains": "content"
+        },
         "config": {}
       },
       "response": [
@@ -171936,13 +172376,13 @@
     "authors": [
       "Shano Liang"
     ],
-    "date": "2025-03-25",
+    "date": "2025-04-03",
     "description": "",
     "organizations": [
       "VIS Lab"
     ],
     "title": "Opacity Judgment Study",
-    "version": "1.1"
+    "version": "1.2"
   },
   "uiConfig": {
     "contactEmail": "sliang1@wpi.edu",
