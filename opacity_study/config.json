@@ -3494,6 +3494,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -3710,6 +3713,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.2
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -7394,6 +7400,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -7610,6 +7619,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -11294,6 +11306,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -11510,6 +11525,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 1
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -15194,6 +15212,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -15410,6 +15431,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.4
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -19094,6 +19118,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -19310,6 +19337,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.9
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -22994,6 +23024,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -23210,6 +23243,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -26894,6 +26930,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -27110,6 +27149,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.8
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -30794,6 +30836,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -31010,6 +31055,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.6
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -34694,6 +34742,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -34910,6 +34961,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.78
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -38594,6 +38648,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -38810,6 +38867,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.62
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -42494,6 +42554,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -42710,6 +42773,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.74
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -46394,6 +46460,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -46610,6 +46679,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.66
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -50294,6 +50366,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -50510,6 +50585,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.72
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -54194,6 +54272,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -54410,6 +54491,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.68
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -58094,6 +58178,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -58310,6 +58397,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 1
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -61994,6 +62084,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -62210,6 +62303,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -65894,6 +65990,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -66110,6 +66209,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.9
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -69794,6 +69896,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -70010,6 +70115,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.1
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -73694,6 +73802,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -73910,6 +74021,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.8
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -77594,6 +77708,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -77810,6 +77927,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.2
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -81494,6 +81614,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -81710,6 +81833,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -85394,6 +85520,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -85610,6 +85739,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -89294,6 +89426,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -89510,6 +89645,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.6
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -93194,6 +93332,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -93410,6 +93551,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.4
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -97094,6 +97238,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -97310,6 +97457,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.58
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -100994,6 +101144,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -101210,6 +101363,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.42
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -104894,6 +105050,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -105110,6 +105269,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.54
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -108794,6 +108956,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -109010,6 +109175,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.46
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -112694,6 +112862,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -112910,6 +113081,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.52
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -116594,6 +116768,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -116810,6 +116987,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.48
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -120494,6 +120674,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -120710,6 +120893,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.8
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -124394,6 +124580,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -124610,6 +124799,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.7
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -128294,6 +128486,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -128510,6 +128705,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.6
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -132194,6 +132392,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -132410,6 +132611,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -136094,6 +136298,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -136310,6 +136517,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.5
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -139994,6 +140204,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -140210,6 +140423,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.1
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -143894,6 +144110,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -144110,6 +144329,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.4
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -147794,6 +148016,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -148010,6 +148235,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.2
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -151694,6 +151922,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -151910,6 +152141,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.38
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -155594,6 +155828,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -155810,6 +156047,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.22
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -159494,6 +159734,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -159710,6 +159953,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.34
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -163394,6 +163640,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -163610,6 +163859,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.26
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -167294,6 +167546,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -167510,6 +167765,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.32
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -171194,6 +171452,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.3
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
@@ -171410,6 +171671,9 @@
                     },
                     "encode": {
                       "update": {
+                        "opacity": {
+                          "value": 0.28
+                        },
                         "stroke": {
                           "scale": "color",
                           "field": "Curve"
