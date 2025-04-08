@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.1.0/src/parser/StudyConfigSchema.json",
   "components": {
     "introduction": {
+      "correctAnswer": [],
       "path": "./assets/introduction.md",
       "response": [],
       "type": "markdown"
@@ -3909,6 +3910,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -7825,6 +7832,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -11741,6 +11754,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -15657,6 +15676,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -19573,6 +19598,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -23489,6 +23520,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -27405,6 +27442,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -31321,6 +31364,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -35237,6 +35286,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -39153,6 +39208,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -43069,6 +43130,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -46985,6 +47052,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -50901,6 +50974,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -54817,6 +54896,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -58733,6 +58818,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -62649,6 +62740,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -66565,6 +66662,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -70481,6 +70584,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -74397,6 +74506,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -78313,6 +78428,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -82229,6 +82350,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -86145,6 +86272,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -90061,6 +90194,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -93977,6 +94116,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -97893,6 +98038,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -101809,6 +101960,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -105725,6 +105882,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -109641,6 +109804,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -113557,6 +113726,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -117473,6 +117648,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -121389,6 +121570,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -125305,6 +125492,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -129221,6 +129414,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -133137,6 +133336,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -137053,6 +137258,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -140969,6 +141180,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -144885,6 +145102,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -148801,6 +149024,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -152717,6 +152946,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -156633,6 +156868,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -160549,6 +160790,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -164465,6 +164712,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -168381,6 +168634,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Right Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
@@ -172297,6 +172556,12 @@
         },
         "config": {}
       },
+      "correctAnswer": [
+        {
+          "answer": "Left Image",
+          "id": "vega_response"
+        }
+      ],
       "response": [
         {
           "id": "vega_response",
