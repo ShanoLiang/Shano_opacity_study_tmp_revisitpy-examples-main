@@ -3925,6 +3925,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -7847,6 +7854,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -11769,6 +11783,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -15691,6 +15712,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -19613,6 +19641,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -23535,6 +23570,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -27457,6 +27499,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -31379,6 +31428,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -35301,6 +35357,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -39223,6 +39286,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -43145,6 +43215,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -47067,6 +47144,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -50989,6 +51073,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -54911,6 +55002,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -58833,6 +58931,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -62755,6 +62860,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -66677,6 +66789,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -70599,6 +70718,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -74521,6 +74647,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -78443,6 +78576,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -82365,6 +82505,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -86287,6 +86434,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -90209,6 +90363,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -94131,6 +94292,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -98053,6 +98221,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -101975,6 +102150,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -105897,6 +106079,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -109819,6 +110008,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -113741,6 +113937,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -117663,6 +117866,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -121585,6 +121795,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -125507,6 +125724,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -129429,6 +129653,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -133351,6 +133582,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -137273,6 +137511,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -141195,6 +141440,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -145117,6 +145369,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -149039,6 +149298,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -152961,6 +153227,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -156883,6 +157156,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -160805,6 +161085,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -164727,6 +165014,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -168649,6 +168943,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
@@ -172571,6 +172872,13 @@
           ],
           "prompt": "Select the figure with higher opacity level",
           "type": "buttons"
+        },
+        {
+          "hidden": true,
+          "id": "trial_metadata",
+          "prompt": "Trial Metadata",
+          "required": false,
+          "type": "shortText"
         }
       ],
       "type": "vega"
