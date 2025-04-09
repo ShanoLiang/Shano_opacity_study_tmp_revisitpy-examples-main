@@ -3913,12 +3913,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.2
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -3928,8 +3936,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -7842,12 +7850,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.3
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -7857,8 +7873,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -11771,12 +11787,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 1.0
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -11786,8 +11810,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -15700,12 +15724,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.4
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -15715,8 +15747,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -19629,12 +19661,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.9
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -19644,8 +19684,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -23558,12 +23598,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.5
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -23573,8 +23621,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -27487,12 +27535,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.8
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -27502,8 +27558,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -31416,12 +31472,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.6
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -31431,8 +31495,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -35345,12 +35409,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.78
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -35360,8 +35432,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -39274,12 +39346,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.62
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -39289,8 +39369,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -43203,12 +43283,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.74
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -43218,8 +43306,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -47132,12 +47220,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.66
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -47147,8 +47243,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -51061,12 +51157,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.72
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -51076,8 +51180,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -54990,12 +55094,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.7,
+            "opacity_right": 0.68
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -55005,8 +55117,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -58919,12 +59031,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 1.0
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -58934,8 +59054,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -62848,12 +62968,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.0
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -62863,8 +62991,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -66777,12 +66905,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.9
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -66792,8 +66928,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -70706,12 +70842,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.1
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -70721,8 +70865,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -74635,12 +74779,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.8
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -74650,8 +74802,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -78564,12 +78716,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.2
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -78579,8 +78739,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -82493,12 +82653,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.7
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -82508,8 +82676,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -86422,12 +86590,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.3
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -86437,8 +86613,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -90351,12 +90527,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.6
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -90366,8 +90550,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -94280,12 +94464,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.4
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -94295,8 +94487,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -98209,12 +98401,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.58
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -98224,8 +98424,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -102138,12 +102338,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.42
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -102153,8 +102361,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -106067,12 +106275,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.54
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -106082,8 +106298,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -109996,12 +110212,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.46
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -110011,8 +110235,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -113925,12 +114149,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.52
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -113940,8 +114172,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -117854,12 +118086,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.5,
+            "opacity_right": 0.48
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -117869,8 +118109,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -121783,12 +122023,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.8
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -121798,8 +122046,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -125712,12 +125960,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.7
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -125727,8 +125983,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -129641,12 +129897,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.6
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -129656,8 +129920,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -133570,12 +133834,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.0
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -133585,8 +133857,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -137499,12 +137771,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.5
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -137514,8 +137794,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -141428,12 +141708,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.1
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -141443,8 +141731,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -145357,12 +145645,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.4
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -145372,8 +145668,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -149286,12 +149582,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.2
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -149301,8 +149605,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -153215,12 +153519,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.38
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -153230,8 +153542,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -157144,12 +157456,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.22
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -157159,8 +157479,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -161073,12 +161393,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.34
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -161088,8 +161416,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -165002,12 +165330,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.26
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -165017,8 +165353,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -168931,12 +169267,20 @@
       "correctAnswer": [
         {
           "answer": "Right Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.32
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -168946,8 +169290,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
@@ -172860,12 +173204,20 @@
       "correctAnswer": [
         {
           "answer": "Left Image",
-          "id": "vega_response"
+          "id": "button_selected"
+        },
+        {
+          "answer": {
+            "seed": 42,
+            "opacity_left": 0.3,
+            "opacity_right": 0.28
+          },
+          "id": "seed_L_R"
         }
       ],
       "response": [
         {
-          "id": "vega_response",
+          "id": "button_selected",
           "options": [
             "Left Image",
             "Right Image"
@@ -172875,8 +173227,8 @@
         },
         {
           "hidden": true,
-          "id": "trial_metadata",
-          "prompt": "Trial Metadata",
+          "id": "seed_L_R",
+          "prompt": "seed_L_R (hidden)",
           "required": false,
           "type": "shortText"
         }
